@@ -8,6 +8,9 @@ import java.util.Set;
 
 // R4修改
 
+
+// R7在B2分支上修改
+
 // 桥接词查询的类
 public class BridgeWordFinder {
     private DirectedGraph graph;
