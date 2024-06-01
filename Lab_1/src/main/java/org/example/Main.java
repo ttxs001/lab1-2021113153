@@ -10,6 +10,8 @@ import java.util.Scanner;
 // R5再次修改提交
 // R4修改
 
+
+// R7在B2分支上修改
 // 主类
 public class Main {
     public static void main(String[] args) {
