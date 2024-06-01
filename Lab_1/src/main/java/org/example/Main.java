@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 // 添加注释，用于测试R3
+// R7在B2分支上修改
 // 主类
 public class Main {
     public static void main(String[] args) {
